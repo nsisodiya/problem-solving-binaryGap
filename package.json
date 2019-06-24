@@ -1,0 +1,15 @@
+{
+  "name": "binaryGap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "karma": "^1.5.0",
+    "karma-chai": "^0.1.0",
+    "karma-mocha": "^1.3.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "eslint": "^3.17.1"
+  }
+}
